@@ -1,11 +1,11 @@
 # requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
-streamlit==1.31.1
+streamlit
 requests
-pytz==2020.1
-tzdata==2022.7
-six==1.5
-numpy==1.19.3
-python_dateutil==2.9.0
-pandas==2.2.2
+pytz
+tzdata
+six
+numpy
+python-dateutil
+pandas
