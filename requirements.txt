@@ -6,6 +6,6 @@ requests
 pytz==2020.1
 tzdata==2022.7
 six==1.5
-numpy==2.0.0
+numpy==1.19.3
 python_dateutil==2.9.0
 pandas==2.2.2
