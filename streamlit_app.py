@@ -19,7 +19,7 @@ my_dataframe = session.table(
 ).select(
     col('SEARCH_ON')
 )
-st.stop()
+# st.stop()
 
 ingredients_list = st.multiselect(
     "Choose up to 5 ingredients",
